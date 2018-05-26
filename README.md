@@ -125,8 +125,7 @@ The software has been developed and tested on
 
   :black_small_square: G. Sousa, B.M. Jones, P.A. Mirzaei, D. Robinson, A review and critique of UK housing stock energy models, modelling approaches and data sources, Energy and Buildings (2017) 66–80. doi:http://dx.doi.org/10.1016/j.enbuild.2017.06.043.
 
-  :black_small_square: G. Sousa, B.M. Jones, P.A. Mirzaei, D. Robinson, An open-source simulation platform to support the formulation of housing stock decarbonisation strategies, Energy and Buildings (2018). doi:http://dx.doi.org/10.1016/j.enbuild.2017.06.043.
-
+  :black_small_square: G. Sousa, B.M. Jones, P.A. Mirzaei, D. Robinson, An open-source simulation platform to support the formulation of housing stock decarbonisation strategies, Energy and Buildings (2018). doi:http://doi.org/10.1016/j.enbuild.2018.05.015
 
 
 
